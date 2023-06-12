@@ -1,0 +1,20 @@
+url: https://evangelisilva.github.io
+title: Evangeli Silva
+description: >-
+  PhD student at [@ualbany](https://twitter.com/ualbany), worked at [@syscolabssl](https://twitter.com/syscolabssl), interned at [@vesess](https://twitter.com/@vesess)
+header_pages:
+  - education.html
+  - work.html
+  - projects.html
+  - publications.html
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+theme: minima

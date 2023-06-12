@@ -1,0 +1,30 @@
+- name: University at Albany, SUNY
+  logo: /assets/img/ualbany.png
+  degree: Ph.D.
+  major: Computer Science
+  term: Jan 2021 - Present
+  extra:
+    # - key: Awards
+    #   value: Dominion Graduate Scholar (2019)
+    - key: Advisor
+      value: Dr. Jeong-Hyon Hwang
+    - key: Research Interests
+      value: Databases and Distributed Systems
+
+- name: University of Moratuwa, Sri Lanka
+  logo: /assets/img/uom.png
+  degree: B.Sc. (Hons.)
+  major: Information Technology & Management
+  term: Dec 2014 - Dec 2018
+  extra:
+    - key: GPA
+      value: 3.50
+    - key: Advisor
+      value: Dr. (Ms.) Supunmali Ahangama
+    - key: Research Project
+      value: Machine Learning-Based Automated Tool to Detect Sinhala Hate Speech in Images
+    - key: Awards
+      value: Dean's List appearance in Level 2 Semester 2
+    - key: Related Core Modules
+      value: Database Management Systems, Data Mining & Data Warehousing, Big Data Analytics, Artificial Intelligence
+

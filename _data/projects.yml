@@ -1,0 +1,48 @@
+- title: Real-time Driver Drowsiness Detection
+  term: 2023
+  description: |-
+    Development of a Python application that uses neural networks and computer vision to detect whether a driver is drowsy or not. The application utilizes non-intrusive methods to accurately determine driver state in real-time and generate effective and acceptable warnings to increase driver alertness and safety.
+  technologies:
+    - Python
+    - Tensorflow
+    - OpenCV
+
+- title: Mimix Data Transformer
+  term: 2021
+  description: |-
+    Development of a library that is capable of filtering Mimix events, transforming and mapping any Mimix event into one or more tables in a target database and performing post-processing actions after data transformation. <br/>
+    * Mapping is done in standard JSON format <br/>
+    * Minimizes boilerplate code <br/>
+    * Released as a Java artifact and is available for public use <br/>
+    * Extensible and pluggable architecture <br/>
+  technologies:
+    - Java
+    - Spring Boot
+    - PostgreSQL
+    - AWS
+
+- title: Dynamic Product Lists Generator
+  term: 2021
+  description: |-
+    Development of a recommendation engine that is capable of generating and recommending dynamic productlists for the newly onboarded Sysco customers. 
+    This benefits Sysco as new customers get immediate exposureto Sysco's products that are relevant to their business type/activities from the recommended lists and the existing customers get the opportunity to try out new products in Sysco's product catalogue rather than purchasing products in static order templates.
+    Recommendations are based on multiple feature parameters such as customers' cuisine types, location, etc.
+    Clustering of customers was performed utilising the K-means clustering algorithm.
+  technologies:
+    - Python
+    - Tensorflow
+    - AWS
+
+- title: Compassionate Sri Lanka
+  term: 2020
+  description: |-
+    A CSR project at Sysco LABS in collaboration with the Ministry of Social Empowerment to build aresponsive web application where donors can meet the people who are in need and fulfil their requests. 
+    I contributed the project in: <br/>
+    * Responsive Web Application Development <br/>
+    * API Development <br/>
+    * SMS/Email Notification Integration <br/>
+  technologies:
+    - Nodejs
+    - Angularjs
+    - AWS
+    - MongoDB

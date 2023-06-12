@@ -1,0 +1,44 @@
+- affiliation: University at Albany, SUNY
+  logo: /assets/img/ualbany.png
+  designation: Graduate Assistant, Department of Computer Science
+  term: Jan 2021 - Present
+  description: |-
+    * Conduct research related to databases and distributed systems
+    * Serve as a teaching assistant. As a teaching assistant, I assist faculty in course instruction, conduct office hours, grade assignments, and provide guidance and support to students. 
+    (Courses: Database Systems, Database Systems I, Data Structures, Assembly Programming and Computer Organization)
+
+- affiliation: Sysco LABS Sri Lanka
+  logo: /assets/img/sysco.png
+  designation: Senior Software Engineer
+  term: Jun 2021 - Aug 2021
+  description: |-
+    * Build and manage the core enterprise micro-services that expose the domain data of the Sysco Corporation (the leader in the marketing and distribution of food products in the USA). 
+    The domain data includes product information, orders, invoices, etc. 
+    These micro-services are consumed by mission-critical and highly user-active systems like online shopping platforms, B2B, and analytics applications. <br/> 
+    * Design relational database schemas for several microservices which deal with the domain and customer data of Sysco. <br/> 
+    * Involve in improving the performance of databases by introducing proper indexing and SQL query optimizations to serve the increasing user demands while maintaining the agreed SLAs. <br/> 
+    * Work in real-time data synchronization from a monolithic source database system to multiple databases in a microservice-based architecture via Change data capture (CDC) and data streaming mechanisms. <br/> 
+    * Design an approach to efficiently purge historical data in a given database without causing any impact to the existing data and users of the application that points to the database. <br/>
+
+- affiliation: Sysco LABS Sri Lanka
+  logo: /assets/img/sysco.png
+  designation: Software Engineer
+  term: Mar 2019 - Nov 2020
+  description: |-
+    Engage in the development and maintenance of Sysco's Core Enterprise Services 
+    * Micro-service/Application Design and Development
+    * Infrastructure Management
+    * Database Design, Development and Management
+    * Continuous Integration and Development <br/>
+
+- affiliation: Vesess Pvt. Ltd.
+  logo: /assets/img/vesess.png
+  designation: Engineering Intern (Data Analytics)
+  term: Oct 2017 - Mar 2018
+  description: |-
+    Work Data Science with Python for the project Donordo
+    - Web Mining and Data Enrichment
+    - Data Mining
+    - Cloud Computing
+    - In-Memory Data Structure Store
+    - Data Analytics and Visualization
